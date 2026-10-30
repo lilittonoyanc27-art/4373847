@@ -1,0 +1,6 @@
+{
+  "name": "Narraciones Populares 1.º ESO — Español y Armenio",
+  "description": "Curso interactivo de Lengua Castellana y Literatura (1.º ESO): Las Narraciones Populares con traducción al armenio interactiva al hacer clic, teoría completa, lecturas y 20 ejercicios prácticos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
